@@ -1,4 +1,4 @@
-Extenção Twitter Bootstrap para Yii 2
+Extensão Twitter Bootstrap para Yii 2
 =====================================
 
 A extensão inclui suporte para marcação e componentes ao framework [Bootstrap 3](http://getbootstrap.com/) 
